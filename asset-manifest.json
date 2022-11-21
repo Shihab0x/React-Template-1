@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "//shihab0x.github.io/React-Template-1/static/css/main.f40c871c.css",
+    "main.js": "//shihab0x.github.io/React-Template-1/static/js/main.4c9b39bf.js",
+    "static/js/787.9e6188a1.chunk.js": "//shihab0x.github.io/React-Template-1/static/js/787.9e6188a1.chunk.js",
+    "static/media/course-video.mp4": "//shihab0x.github.io/React-Template-1/static/media/course-video.f3257b9e04f0b8148465.mp4",
+    "static/media/apply-bg.jpg": "//shihab0x.github.io/React-Template-1/static/media/apply-bg.c4e62dba69de5c869ccf.jpg",
+    "static/media/meetings-page-bg.jpg": "//shihab0x.github.io/React-Template-1/static/media/meetings-page-bg.df31bdd6868172d29e34.jpg",
+    "static/media/single-meeting.jpg": "//shihab0x.github.io/React-Template-1/static/media/single-meeting.475e0ec8d50d793fcecd.jpg",
+    "static/media/meetings-bg.jpg": "//shihab0x.github.io/React-Template-1/static/media/meetings-bg.230aae3ec90cd5b9b42a.jpg",
+    "static/media/facts-bg.jpg": "//shihab0x.github.io/React-Template-1/static/media/facts-bg.f2ba04b5ceed38959c36.jpg",
+    "static/media/heading-bg.jpg": "//shihab0x.github.io/React-Template-1/static/media/heading-bg.35c8925f97cff39d99c4.jpg",
+    "static/media/meeting-04.jpg": "//shihab0x.github.io/React-Template-1/static/media/meeting-04.7ca80fbd8af2b2038a4f.jpg",
+    "static/media/video-item-bg.jpg": "//shihab0x.github.io/React-Template-1/static/media/video-item-bg.f0f236591ad2264ff986.jpg",
+    "static/media/meeting-03.jpg": "//shihab0x.github.io/React-Template-1/static/media/meeting-03.709aca9d158b86278f09.jpg",
+    "static/media/meeting-02.jpg": "//shihab0x.github.io/React-Template-1/static/media/meeting-02.f060a56a889c675f88fd.jpg",
+    "static/media/meeting-01.jpg": "//shihab0x.github.io/React-Template-1/static/media/meeting-01.1e84912d474d22c6aac0.jpg",
+    "index.html": "//shihab0x.github.io/React-Template-1/index.html",
+    "main.f40c871c.css.map": "//shihab0x.github.io/React-Template-1/static/css/main.f40c871c.css.map",
+    "main.4c9b39bf.js.map": "//shihab0x.github.io/React-Template-1/static/js/main.4c9b39bf.js.map",
+    "787.9e6188a1.chunk.js.map": "//shihab0x.github.io/React-Template-1/static/js/787.9e6188a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f40c871c.css",
+    "static/js/main.4c9b39bf.js"
+  ]
+}
